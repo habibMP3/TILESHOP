@@ -1,0 +1,36 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN",
+      "main_ads_banner": "ca-app-pub-6654763603700910/7907197257",
+      "main_ads_intertitial":"ca-app-pub-6654763603700910/1454303696",
+      "main_ads_natives":"null",
+      "main_ads_rewards":"ca-app-pub-6654763603700910/2337238007",
+      "backup_ads_natives":"null",
+      "backup_ads_banner":"7c829e018bbdc732",
+      "backup_ads_intertitial":"ddf8d8378b1b73c1",
+      "backup_ads_rewards":"c1b64316ea84d6e1",
+      "open_ads_admob":"ca-app-pub-6654763603700910/9205898685",
+      "open_ads_applovin":"b0292a2659e79a10",
+      "switch_open_ads":"null",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"ca-app-pub-6654763603700910~8518405496",
+      "initialize_sdk_backup_ads":"hk97ezxRqnwlOPTAbofdGvMQ9OGpDQkNAabV8ccQlCnIWI2Ss0Hq99FUSy9lTg47JixvCy_TgJ768Zrm42aCyn",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    
+  ],
+  "Data": [
+    
+  ]
+}
